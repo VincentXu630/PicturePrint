@@ -13,5 +13,6 @@ private final String TAG = "mainActivity";
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i(TAG, "start!");
+        Log.i(TAG, "second");
     }
 }
